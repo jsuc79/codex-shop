@@ -26,3 +26,6 @@ pnpm-debug.log*
 Thumbs.db
 .idea/
 .vscode/
+
+# Local helper scripts
+start-dev.cmd

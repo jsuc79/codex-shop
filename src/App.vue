@@ -125,7 +125,7 @@ function submitReservation() {
       <div class="section-heading split">
         <div>
           <p class="eyebrow">Signature Menu</p>
-          <h2 id="menu-title">招牌菜</h2>
+          <h2 id="menu-title">推荐菜品</h2>
         </div>
         <a class="text-link" href="#visit">想吃哪道，订位时备注</a>
       </div>
