@@ -3,26 +3,26 @@ import { computed, reactive, ref } from "vue";
 
 const dishes = [
   {
-    name: "青柠山药沙拉",
-    description: "脆山药、青柠汁、烤芝麻、嫩叶菜",
+    name: "泰式柠檬鲈鱼",
+    description: "鲜嫩鲈鱼、青柠酸汤、香茅辣椒、清爽开胃",
     price: "¥48",
     image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&q=80",
-    alt: "摆盘清新的蔬菜沙拉",
+    alt: "酸辣清香的泰式柠檬鲈鱼",
   },
   {
-    name: "炭火黑椒牛肋",
-    description: "低温慢烤、黑椒汁、烟熏土豆泥",
+    name: "滑蛋多汁嫩虾仁",
+    description: "现剥虾仁、嫩滑鸡蛋、葱香热油、鲜甜多汁",
     price: "¥138",
     image: "https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=900&q=80",
-    alt: "烤制后的肉排和配菜",
+    alt: "金黄滑蛋包裹鲜嫩虾仁",
     featured: true,
   },
   {
-    name: "窑烤葱香薄饼",
-    description: "手揉面团、葱油、云南菌菇、芝士",
+    name: "澳洲新鲜生蚝",
+    description: "冷链鲜运、海盐矿物感、柠檬点缀、入口清甜",
     price: "¥68",
     image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=80",
-    alt: "刚出炉的手作饼类主食",
+    alt: "冰镇摆盘的澳洲新鲜生蚝",
   },
 ];
 
